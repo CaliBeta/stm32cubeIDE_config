@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="62482" name="stmcube" modified="2021-10-02 00:42:18" author="Carlos Andres Betancourt Perez">
+    <searchResultIndication color="#D8D8D8" />
+    <filteredSearchResultIndication color="#D8D8D8" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" />
+    <findScope color="#000000" />
+    <deletionIndication color="#FF0000" />
+    <sourceHoverBackground color="#FFFFFF" />
+    <singleLineComment color="#FFFFFF" />
+    <multiLineComment color="#FFFFFF" />
+    <commentTaskTag color="#FFFFFF" />
+    <javadoc color="#FFFFFF" />
+    <javadocLink color="#CFBFAD" />
+    <javadocTag color="#CFBFAD" />
+    <javadocKeyword color="#D9E577" />
+    <class color="#52E3F6" bold="true" />
+    <interface color="#52E3F6" bold="false" />
+    <method color="#A7EC21" bold="true" />
+    <methodDeclaration color="#A7EC21" bold="true" />
+    <bracket color="#F9FAF4" />
+    <number color="#C48CFF" />
+    <string color="#ECE47E" />
+    <operator color="#FF007F" bold="false" />
+    <keyword color="#FF007F" bold="true" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#A7EC21" bold="true" />
+    <localVariable color="#F59632" />
+    <localVariableDeclaration color="#FF8040" />
+    <field color="#64E1E1" />
+    <staticField color="#CFBFAD" />
+    <staticFinalField color="#CFBFAD" />
+    <deprecatedMember color="#FF0000" />
+    <enum color="#F7AD7B" italic="true" />
+    <inheritedMethod color="#BED6FF" />
+    <abstractMethod color="#BED6FF" />
+    <parameterVariable color="#79ABFF" />
+    <typeArgument color="#BFA4A4" />
+    <typeParameter color="#BFA4A4" />
+    <background color="#272822" />
+    <currentLine color="#5B5A4E" />
+    <foreground color="#CFBFAD" />
+    <lineNumber color="#999999" />
+    <selectionBackground color="#CC9900" />
+    <selectionForeground color="#404040" />
+</colorTheme>
